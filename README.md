@@ -1,4 +1,4 @@
-# NixOS Configuration for HP LaserJet 1020 / 1018
+# NixOS Configuration for HP LaserJet 1020
 
 A dead-simple, reliable, and pure Nix-way workaround to make host-based HP printers work on NixOS in just 10 minutes. 
 
